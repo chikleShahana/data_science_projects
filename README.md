@@ -1,10 +1,12 @@
-# Titanic Survival Prediction
+# Data Science Projects
 
-## Problem Statement
-Predict whether a passenger survived the Titanic disaster.
+This repository contains my data science projects developed using
+Python and Jupyter Notebook (Anaconda).
 
-## Dataset
-Kaggle Titanic Dataset
+## Projects Included
+1. Titanic Survival Prediction
+2. House Price Prediction
+3. Customer Churn Analysis
 
 ## Tools & Technologies
 - Python
@@ -14,9 +16,4 @@ Kaggle Titanic Dataset
 - Seaborn
 - Scikit-learn
 
-## Model Used
-Logistic Regression
-
-## Result
-Achieved accuracy of 82%
 
